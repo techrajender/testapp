@@ -2,7 +2,7 @@ package com.dp.flyweight;
 
 /***
  * 
- * @author JYOTHIKA
+ * @author raj
  *
  */
 public class Circle implements Shape {
