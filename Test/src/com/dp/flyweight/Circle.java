@@ -1,5 +1,10 @@
 package com.dp.flyweight;
 
+/***
+ * 
+ * @author JYOTHIKA
+ *
+ */
 public class Circle implements Shape {
 	private String color;
 	private int x;
